@@ -1,4 +1,4 @@
-# Sitecore Ignition
+# Sitecore Ignition Beta - October 2016
 
 Ignition is an open source development accelerator designed by the team at [Perficient](http://www.perficient.com) and released to the Sitecore community as a quick-start tool for beginning Sitecore projects. It has two primary components: the Sitecore Information Architecture piece and the .NET MVC Solution. All along the way, the team has set things up so that we're using best practices for Sitecore development as well as good development practices and patterns. We embrace SOLID, and our code is designed to enable you, the consumer, to quickly extend, add onto, and test your own code.
 
